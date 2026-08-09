@@ -1,0 +1,9 @@
+ultralytics==8.3.0
+opencv-python==5.0.0.93
+numpy==2.2.6
+easyocr==1.7.2
+torch==2.8.0
+torchvision==0.23.0
+Pillow==11.3.0
+PyYAML==6.0.2
+scipy==1.16.1
