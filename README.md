@@ -259,6 +259,6 @@ GitHub: https://github.com/SLokesh1810
 
 ## License
 
-The source code in this repository can be licensed separately from the pretrained models used by the project.
+This project is licensed under the [MIT License](LICENSE).
 
-Before redistributing model weights, check the original license and terms associated with each pretrained model.
+> **Note:** The pretrained models used in this project may have separate licenses. Refer to their respective model repositories and licenses before redistributing or using them commercially.
